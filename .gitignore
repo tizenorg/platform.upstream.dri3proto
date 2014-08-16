@@ -7,6 +7,9 @@ config.log
 config.status
 config.sub
 configure
-dri3proto.pc
+configure.scan
+depcomp
+.deps/
+INSTALL
 install-sh
 missing
